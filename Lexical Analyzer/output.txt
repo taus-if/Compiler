@@ -1,0 +1,226 @@
+
+<Keyword, void>, at line 1 
+<Function,shiftLR>,at line Number=1    
+<Keyword, int>, at line 3 
+<identifier, val>, at line 3
+<Parentheses, )>, at line 3 
+<Curly Braces, {>, at line 3    
+<Keyword, int>, at line 4 
+<identifier, temp1>, at line 4
+<Separator, ,> at line 4 
+<identifier, temp2>, at line 4
+<Separator, ;> at line 4     
+<identifier, temp1>, at line 5 
+<Assignment Operator, >>=>, at line 5 
+<identifier, val>, at line 5
+<Separator, ;> at line 5    
+<Function,printf>,at line Number=6
+<literals, "Temp1=%d\n">, at line 6
+<Separator, ,> at line 6 
+<identifier, temp1>, at line 6
+<Parentheses, )>, at line 6
+<Separator, ;> at line 6    
+<identifier, temp2>, at line 7 
+<Assignment Operator, <<=>, at line 7 
+<identifier, val>, at line 7
+<Separator, ;> at line 7    
+<Function,printf>,at line Number=8
+<literals, "Temp2=%d\n">, at line 8
+<Separator, ,> at line 8 
+<identifier, temp2>, at line 8
+<Parentheses, )>, at line 8
+<Separator, ;> at line 8    
+<identifier, temp1>, at line 9 
+<Assignment Operator, =>, at line 9 
+<identifier, val>, at line 9 
+<Bitwise Operator, >>>, at line 9 
+<Number, 1>, at line 9
+<Separator, ;> at line 9    
+<Function,printf>,at line Number=10
+<literals, "Temp1=%d\n">, at line 10
+<Separator, ,> at line 10 
+<identifier, temp1>, at line 10
+<Parentheses, )>, at line 10
+<Separator, ;> at line 10    
+<identifier, temp2>, at line 11 
+<Assignment Operator, =>, at line 11 
+<identifier, val>, at line 11 
+<Bitwise Operator, <<>, at line 11 
+<Number, 2>, at line 11
+<Separator, ;> at line 11    
+<Function,printf>,at line Number=12
+<literals, "Temp1=%d\n">, at line 12
+<Separator, ,> at line 12 
+<identifier, temp2>, at line 12
+<Parentheses, )>, at line 12
+<Separator, ;> at line 12    
+<identifier, temp1>, at line 13 
+<Assignment Operator, =>, at line 13 
+<identifier, val>, at line 13 
+<Bitwise Operator, ^>, at line 13 
+<Number, 3>, at line 13
+<Separator, ;> at line 13    
+<Function,printf>,at line Number=14
+<literals, "Temp1=%d\n">, at line 14
+<Separator, ,> at line 14 
+<identifier, temp1>, at line 14
+<Parentheses, )>, at line 14
+<Separator, ;> at line 14    
+<identifier, temp1>, at line 15 
+<Assignment Operator, =>, at line 15 
+<identifier, val>, at line 15 
+<Bitwise Operator, &>, at line 15 
+<Number, 5>, at line 15
+<Separator, ;> at line 15    
+<Function,printf>,at line Number=16
+<literals, "Temp1=%d\n">, at line 16
+<Separator, ,> at line 16 
+<identifier, temp1>, at line 16
+<Parentheses, )>, at line 16
+<Separator, ;> at line 16    
+<identifier, temp1>, at line 17 
+<Assignment Operator, =>, at line 17 
+<identifier, val>, at line 17 
+<Bitwise Operator, |>, at line 17 
+<Number, 6>, at line 17
+<Separator, ;> at line 17    
+<Function,printf>,at line Number=18
+<literals, "Temp1=%d\n">, at line 18
+<Separator, ,> at line 18 
+<identifier, temp1>, at line 18
+<Parentheses, )>, at line 18
+<Separator, ;> at line 18
+<Curly Braces, }>, at line 20
+<Keyword, int>, at line 22 
+<Function,main>,at line Number=22
+<Parentheses, )>, at line 22
+<Curly Braces, {>, at line 23    
+<Keyword, int>, at line 24 
+<identifier, choice>, at line 24
+<Separator, ,> at line 24
+<identifier, i>, at line 24
+<Separator, ,> at line 24
+<identifier, j>, at line 24
+<Separator, ,> at line 24
+<identifier, a>, at line 24
+<Assignment Operator, =>, at line 24
+<Number, 5>, at line 24
+<Separator, ,> at line 24
+<identifier, b>, at line 24
+<Assignment Operator, =>, at line 24
+<Number, 10>, at line 24
+<Separator, ,> at line 24
+<identifier, c>, at line 24
+<Assignment Operator, =>, at line 24
+<Number, 12>, at line 24
+<Separator, ,> at line 24
+<identifier, d>, at line 24
+<Assignment Operator, =>, at line 24
+<Number, 2>, at line 24
+<Separator, ;> at line 24    
+<Keyword, float>, at line 25 
+<identifier, num1>, at line 25
+<Assignment Operator, =>, at line 25
+<Number, 3.1416>, at line 25
+<Separator, ;> at line 25    
+<Keyword, double>, at line 26 
+<identifier, num2>, at line 26
+<Assignment Operator, =>, at line 26
+<Number, 3.15E-2>, at line 26
+<Separator, ;> at line 26    
+<Keyword, int>, at line 27 
+<identifier, res>, at line 27
+<Assignment Operator, =>, at line 27
+<Number, 0>, at line 27
+<Separator, ,> at line 27 
+<identifier, res2>, at line 27
+<Assignment Operator, =>, at line 27
+<Number, 0>, at line 27
+<Separator, ;> at line 27        
+<Function,scanf>,at line Number=29
+<literals, "%d">, at line 29
+<Separator, ,> at line 29 
+<Bitwise Operator, &>, at line 29
+<identifier, choice>, at line 29
+<Parentheses, )>, at line 29
+<Separator, ;> at line 29    
+<Keyword, switch(>, at line 30
+<identifier, choice>, at line 30
+<Parentheses, )>, at line 30
+<Curly Braces, {>, at line 30    
+<Keyword, case>, at line 31 
+<Number, 1>, at line 31
+<Separator, :> at line 31	        
+<Function,shiftLR>,at line Number=33
+<Number, 15>, at line 33
+<Parentheses, )>, at line 33
+<Separator, ;> at line 33                
+<Keyword, break>, at line 35
+<Separator, ;> at line 35    
+<Keyword, case>, at line 36 
+<Number, 2>, at line 36
+<Separator, :> at line 36		    
+<identifier, res2>, at line 38 
+<Assignment Operator, =>, at line 38 
+<Number, 4>, at line 38
+<Separator, ;> at line 38        
+<identifier, res2>, at line 39
+<Bitwise Operator, |>, at line 39
+<Assignment Operator, =>, at line 39
+<identifier, b>, at line 39
+<Separator, ;> at line 39        
+<Function,printf>,at line Number=40
+<literals, "Case2: Result=%d\n">, at line 40
+<Separator, ,> at line 40 
+<identifier, res2>, at line 40
+<Parentheses, )>, at line 40
+<Separator, ;> at line 40        
+<Keyword,if>, at line 41
+<identifier, res2>, at line 41 
+<Assignment Operator, =>, at line 41
+<Assignment Operator, =>, at line 41 
+<Number, 15>, at line 41 
+<Parentheses, )>, at line 41
+<Curly Braces, {>, at line 41            
+<identifier, res2>, at line 42 
+<Assignment Operator, ^=>, at line 42 
+<identifier, c>, at line 42
+<Separator, ;> at line 42            
+<Function,printf>,at line Number=43
+<literals, "Case2:if Result=%d\n">, at line 43
+<Separator, ,> at line 43 
+<identifier, res2>, at line 43
+<Parentheses, )>, at line 43
+<Separator, ;> at line 43        
+<Curly Braces, }>, at line 44
+<Keyword, else>, at line 44
+<Curly Braces, {>, at line 44            
+<identifier, res2>, at line 45 
+<Assignment Operator, &=>, at line 45
+<identifier, d>, at line 45
+<Separator, ;> at line 45            
+<Function,printf>,at line Number=46
+<literals, "Case2:else Result=%d\n">, at line 46
+<Separator, ,> at line 46 
+<identifier, res2>, at line 46
+<Parentheses, )>, at line 46
+<Separator, ;> at line 46        
+<Curly Braces, }>, at line 47                
+<Keyword, break>, at line 48
+<Separator, ;> at line 48    
+<Keyword, case>, at line 49 
+<Number, 3>, at line 49
+<Separator, :> at line 49    	        
+<Keyword, break>, at line 53
+<Separator, ;> at line 53    
+<Keyword, default>, at line 54
+<Separator, :> at line 54        
+<Function,printf>,at line Number=55
+<literals, "Wrong Input">, at line 55
+<Parentheses, )>, at line 55
+<Separator, ;> at line 55    
+<Curly Braces, }>, at line 56    
+<identifier, return>, at line 58 
+<Number, 0>, at line 58
+<Separator, ;> at line 58
+<Curly Braces, }>, at line 59

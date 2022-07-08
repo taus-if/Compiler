@@ -1,0 +1,4 @@
+main 1
+scanf 5
+printf 6
+printf 7

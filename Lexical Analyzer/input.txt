@@ -1,0 +1,60 @@
+void shiftLR    
+
+(    int val) {
+    int temp1, temp2; 
+    temp1 >>= val;
+    printf("Temp1=%d\n", temp1);
+    temp2 <<= val;
+    printf("Temp2=%d\n", temp2);
+    temp1 = val >> 1;
+    printf("Temp1=%d\n", temp1);
+    temp2 = val << 2;
+    printf("Temp1=%d\n", temp2);
+    temp1 = val ^ 3;
+    printf("Temp1=%d\n", temp1);
+    temp1 = val & 5;
+    printf("Temp1=%d\n", temp1);
+    temp1 = val | 6;
+    printf("Temp1=%d\n", temp1);
+
+}
+
+int main()
+{
+    int choice,i,j,a=5,b=10,c=12,d=2;
+    float num1=3.1416;
+    double num2=3.15E-2;
+    int res=0, res2=0;
+    
+    scanf("%d", &choice);
+    switch(choice){
+    case 1:
+	// Case-1
+        shiftLR(15);
+        //printf("Case1: Result=%d\n", res);
+        break;
+    case 2:
+	// Case-2
+	    res2 = 4;
+        res2|=b;
+        printf("Case2: Result=%d\n", res2);
+        if(res2 == 15 ){
+            res2 ^= c;
+            printf("Case2:if Result=%d\n", res2);
+        }else{
+            res2 &=d;
+            printf("Case2:else Result=%d\n", res2);
+        }        
+        break;
+    case 3:
+    // This is Case-3
+	/* Write your code here
+	multiple line should 
+	be kept in bracket*/
+        break;
+    default:
+        printf("Wrong Input");
+    }
+
+    return 0;
+}
